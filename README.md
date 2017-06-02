@@ -12,4 +12,4 @@ modif gitflow
 =======
 test3
 >>>>>> master
->>>>>>> master
+>>>>>>> master => Coucou
