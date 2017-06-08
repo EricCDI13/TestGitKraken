@@ -1,11 +1,16 @@
 TestGitKraken
+<<<<<<< Updated upstream
+Ajout
+modif gitflow
+=======
 Ajout avant pop
-<<<<<<< HEAD
 <<<<<<< HEAD
 modif gitflow
 =======
 Pour branche
 >>>>>>> estbranch
+<<<<<<< Updated upstream
+=======
 =======
 <<<<<< develop
 modif gitflow
@@ -13,3 +18,5 @@ modif gitflow
 test3
 >>>>>> master
 >>>>>>> master => Coucou
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
